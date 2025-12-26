@@ -4,7 +4,7 @@
     <link rel="stylesheet" href="style.css">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>для фроста</title>
+    <title>для фростика</title>
 </head>
 <body>
     <p>Фростик, с новым 2025 годом!</p>
